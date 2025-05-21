@@ -1,0 +1,93 @@
+<html>
+<head>
+<title> Wanda Maximoff: La Bruja Escarlata </title>
+</head>
+ <body bgcolor="#1E0A12" text="#F5F5F5">
+
+  
+<h1><font color="#C40031">Wanda Maximoff </font></h1>
+  
+
+<h2><font color="#FF1F4C">Nombre real:</font></h2>
+
+
+
+<h3> Wanda Maximoff
+
+</h3>
+
+<h2><font color="#FF1F4C">Alias:</font></h2>
+ <h3>Bruja Escarlata (Scarlet Witch)</h3>
+
+<h2><font color="#FF1F4C">Primera aparición:</font></h2>
+<h3> X-Men #4 (marzo de 1964)</h3>
+
+
+<img src="x men.jpg" 
+         alt="X men #4" 
+         width="300"
+         style="border: 3px solid #a00; border-radius: 10px;">
+
+<h2><font color="#FF1F4C">creadores:</font></h2>
+<h3>Stan Lee (escritor) 
+
+<br><img src="lee.jpg" 
+         alt="Stan Lee" 
+         width="300"
+         style="border: 3px solid #a00; border-radius: 10px;"><br>
+y Jack Kirby (dibujante)</h3>
+<img src="kirby.jpg" 
+         alt="Jack Kirby" 
+         width="300"
+         style="border: 3px solid #a00; border-radius: 10px;">
+
+<h1><font color="#C40031">Creación del personaje y propósito </font></h1>
+<p>Wanda fue creada por Stan Lee y Jack Kirby durante la Edad de Plata de los cómics como parte de la Hermandad de Mutantes Malignos, liderada por Magneto. <br>Originalmente, ella y su hermano gemelo Pietro Maximoff (Quicksilver) eran villanos con motivaciones ambiguas,<br>pero rápidamente evolucionaron hacia el lado heroico, uniéndose a los Vengadores.<br>
+
+El propósito inicial de su creación era introducir más personajes mutantes al mundo de Marvel y explorar la tensión entre humanos y mutantes.</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbLx-t6VvsjErAqBQQFLYaZjwmvvcX9n9kg&s" 
+         alt="Wanda Maximoff " 
+         width="400"
+         style="border: 3px solid #a00; border-radius: 10px;">
+
+
+
+<h3><center>
+    <table>
+        <tr>
+            <td><a href="Biografia.html" target="_blank" style="color:#FF66CC">Biografía</a></td>
+            <td>&nbsp;|&nbsp;</td>
+            <td><a href="poderes y hazañas.html" target="_blank" style="color:#FF66CC">Poderes</a></td><td>&nbsp;|&nbsp;</td>
+            <td><a href="peliculas donde aparece wanda.html" target="_blank" style="color:#FF66CC">Películas</a></td>
+            <td>&nbsp;|&nbsp;</td>
+            <td><a href="comics en los que aparece wanda.html" target="_blank" style="color:#FF66CC">Cómics</a></td>
+        </tr>
+    </table></h3>
+<center>
+<audio autoplay controls>
+    
+   <source src="unstoppable.mp4" type="audio/mp4">
+       Tu navegador no soporta la reproducción de audio.
+   </audio>
+
+<hr>
+    <footer><marquee>
+        <center>
+            <p>Sígueme en mis redes sociales:</p>
+            <p>
+                <a href="https://www.facebook.com/profile.php?id=100090501663007" style="color:#8B1C62">Facebook</a> |
+                <a href="https://www.instagram.com/jonathanismael913" style="color:#8B1C62">Instagram</a>
+            </p>
+            <p>By Jonathan Ramirez</p>
+        </center></marquee>
+    </footer>
+
+
+
+
+
+
+
+</body>
+</html>
